@@ -1,0 +1,13 @@
+Truy nhập trực tiếp tệp nhị phân
+Tạo tệp nhị phân lưu bảng điểm
+Đọc tệp nhị phân và ghi ra mảng:ChisoMXT.IDX
+Mỗi phần tử mảng có 2 cột:
+PT{
+       Int MXT;
+        Int VT;
+}
+dem 
+For(i=0;i<dem;i++)
+A[i].VT=i;
+Sắp xếp mảng theo thứ tự tăng dần của MXT
+Nhập từ bàn phím MXT của 1 học sinh cho biết kết quả của học

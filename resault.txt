@@ -1,0 +1,7 @@
+
+	 DANH SACH TRUNG TUYEN 	
+
+STT,HOTEN,DIEM,SOHIEU
+ 1,kokoss,10.000000.1,s1
+ Tong sinh vien trung tuyen : 1
+end
